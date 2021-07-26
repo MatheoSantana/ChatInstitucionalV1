@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Grafico\HistorialMensajesDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grafico\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grafico\MensajesDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grafico\PerfilDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grafico\PrincipalChatDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grafico\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grafico\RegisterClasesDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grafico\RegisterDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grafico\RegisterAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grafico\RegisterClasesAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grafico\PrincipalChatAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grafico\MensajesAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grafico\PerfilAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

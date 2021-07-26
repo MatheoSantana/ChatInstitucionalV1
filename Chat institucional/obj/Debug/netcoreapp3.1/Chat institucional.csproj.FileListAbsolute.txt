@@ -1,0 +1,101 @@
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.csproj.AssemblyReference.cache
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.Login.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.csproj.GenerateResource.cache
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.AssemblyInfoInputs.cache
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.AssemblyInfo.cs
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.csproj.CoreCompileInputs.cache
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.exe
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.deps.json
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.runtimeconfig.json
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.runtimeconfig.dev.json
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.dll
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.pdb
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.dll
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.pdb
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.genruntimeconfig.cache
+C:\Users\Admin.DESKTOP-0Q23CA9\Desktop\proyecto\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.exe
+C:\Users\Admin.DESKTOP-0Q23CA9\Desktop\proyecto\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.deps.json
+C:\Users\Admin.DESKTOP-0Q23CA9\Desktop\proyecto\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.runtimeconfig.json
+C:\Users\Admin.DESKTOP-0Q23CA9\Desktop\proyecto\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.runtimeconfig.dev.json
+C:\Users\Admin.DESKTOP-0Q23CA9\Desktop\proyecto\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.dll
+C:\Users\Admin.DESKTOP-0Q23CA9\Desktop\proyecto\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.pdb
+C:\Users\Admin.DESKTOP-0Q23CA9\Desktop\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.csproj.AssemblyReference.cache
+C:\Users\Admin.DESKTOP-0Q23CA9\Desktop\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.Login.resources
+C:\Users\Admin.DESKTOP-0Q23CA9\Desktop\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.csproj.GenerateResource.cache
+C:\Users\Admin.DESKTOP-0Q23CA9\Desktop\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.AssemblyInfoInputs.cache
+C:\Users\Admin.DESKTOP-0Q23CA9\Desktop\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.AssemblyInfo.cs
+C:\Users\Admin.DESKTOP-0Q23CA9\Desktop\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.csproj.CoreCompileInputs.cache
+C:\Users\Admin.DESKTOP-0Q23CA9\Desktop\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.dll
+C:\Users\Admin.DESKTOP-0Q23CA9\Desktop\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.pdb
+C:\Users\Admin.DESKTOP-0Q23CA9\Desktop\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.genruntimeconfig.cache
+C:\Users\Admin.DESKTOP-0Q23CA9\Desktop\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.PrincipalChatDocente.resources
+C:\Users\Admin.DESKTOP-0Q23CA9\Desktop\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.Properties.Resources.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.PrincipalChatDocente.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.Properties.Resources.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.MensajesDocente.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.HistorialMensajesDocente.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.PerfilDocente.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.RegisterDocente.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.Register.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.RegisterClasesDocente.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.csproj.AssemblyReference.cache
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.HistorialMensajesDocente.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.Login.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.MensajesDocente.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.PerfilDocente.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.PrincipalChatDocente.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.Register.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.RegisterClasesDocente.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.RegisterDocente.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.Properties.Resources.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.RegisterAlumno.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.RegisterClasesAlumno.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.csproj.GenerateResource.cache
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.AssemblyInfoInputs.cache
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.AssemblyInfo.cs
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.csproj.CoreCompileInputs.cache
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.dll
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.pdb
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.exe
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.deps.json
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.runtimeconfig.json
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.runtimeconfig.dev.json
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.dll
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.pdb
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.genruntimeconfig.cache
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.PrincipalChatAlumno.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.MensajesAlumno.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\proyecto-v0.1\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.PerfilAlumno.resources
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.exe
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.deps.json
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.runtimeconfig.json
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.runtimeconfig.dev.json
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.dll
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\bin\Debug\netcoreapp3.1\Chat institucional.pdb
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.csproj.AssemblyReference.cache
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.HistorialMensajesDocente.resources
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.Login.resources
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.MensajesAlumno.resources
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.MensajesDocente.resources
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.PerfilAlumno.resources
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.PerfilDocente.resources
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.PrincipalChatAlumno.resources
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.PrincipalChatDocente.resources
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.Register.resources
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.RegisterAlumno.resources
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.RegisterClasesAlumno.resources
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.RegisterClasesDocente.resources
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.RegisterDocente.resources
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.Properties.Resources.resources
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.csproj.GenerateResource.cache
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.AssemblyInfoInputs.cache
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.AssemblyInfo.cs
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.csproj.CoreCompileInputs.cache
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.dll
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.pdb
+C:\Users\miusi\Google Drive (chitcraftserver@gmail.com)\PROYECTO FINAL\Programacion\Chat institucional\obj\Debug\netcoreapp3.1\Chat institucional.genruntimeconfig.cache
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.MensajesAlumno.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.PerfilAlumno.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.PrincipalChatAlumno.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.RegisterAlumno.resources
+C:\Users\miusi\OneDrive\Escritorio\proyecto\Chat institucional\obj\Debug\netcoreapp3.1\Chat_institucional.RegisterClasesAlumno.resources
